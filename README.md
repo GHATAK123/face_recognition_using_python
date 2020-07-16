@@ -8,5 +8,5 @@
 * Generating face encoding automatically
 - - - - 
 ### Face Detection ###
-![Screenshot](Screenshot (421).png)
+![Screenshot](face_detection.png)
 - - - -
