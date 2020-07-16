@@ -8,5 +8,5 @@
 * Generating face encoding automatically
 - - - - 
 ### Face Detection ###
-![picture alt](face_detection/Screenshot (421)"Title is optional")
+![picture alt](face_detection/Screenshot(421)"Title is optional")
 - - - -
