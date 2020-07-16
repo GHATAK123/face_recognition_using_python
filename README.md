@@ -7,5 +7,6 @@
 * Finding lookalikes using face detection
 * Generating face encoding automatically
 - - - - 
-                                                                Face Detection
+### Face Detection ###
+![picture alt](face_detection/Screenshot (421)"Title is optional")
 - - - -
