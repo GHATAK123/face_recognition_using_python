@@ -7,5 +7,5 @@
 * Finding lookalikes using face detection
 * Generating face encoding automatically
 - - - - 
-                                                                    Face Detection
+                                                                Face Detection
 - - - -
