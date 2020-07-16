@@ -7,6 +7,13 @@
 * Finding lookalikes using face detection
 * Generating face encoding automatically
 - - - - 
-### Face Detection ###
+### Face_detection ###
 ![Screenshot](face_detection.png)
 - - - -
+
+- - - - 
+### facial_feature_detection ###
+![Screenshot](facial_feature_detection.png)
+- - - -
+
+
